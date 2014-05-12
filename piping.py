@@ -28,7 +28,7 @@ def printMe(pipe_connection, x):
 
 	##  Testing, so sleep the function so you can read the PID in activity monitor
 	##
-	time.sleep(3)
+	time.sleep(5)
 	print '  I am dead'
 
 
